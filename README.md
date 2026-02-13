@@ -213,11 +213,11 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 Para reportar bugs ou solicitar features:
 - Abra uma [Issue](https://github.com/seu-usuario/noskins/issues)
-- Entre em contato via Discord: [seu-discord]
+- Entre em contato via Discord: [hzera1_]
 
 ## ✨ Créditos
 
-Desenvolvido por [Seu Nome/Leites]
+Desenvolvido por hzerafull
 
 ---
 
