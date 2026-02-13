@@ -1,0 +1,7 @@
+D:\plugin\NoSkins\bin\Release\net48\NoSkins.dll
+D:\plugin\NoSkins\bin\Release\net48\NoSkins.pdb
+D:\plugin\NoSkins\obj\Release\net48\NoSkins.csproj.AssemblyReference.cache
+D:\plugin\NoSkins\obj\Release\net48\NoSkins.GeneratedMSBuildEditorConfig.editorconfig
+D:\plugin\NoSkins\obj\Release\net48\NoSkins.csproj.CoreCompileInputs.cache
+D:\plugin\NoSkins\obj\Release\net48\NoSkins.dll
+D:\plugin\NoSkins\obj\Release\net48\NoSkins.pdb
